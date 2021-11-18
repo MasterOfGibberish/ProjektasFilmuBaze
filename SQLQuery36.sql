@@ -1,0 +1,2 @@
+USE LoginDB
+DELETE FROM Table_User
